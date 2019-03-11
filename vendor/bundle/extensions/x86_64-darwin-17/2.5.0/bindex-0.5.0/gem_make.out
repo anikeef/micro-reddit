@@ -1,0 +1,15 @@
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/a1/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190311-34480-l9fs9r.rb extconf.rb
+creating Makefile
+
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20190311-34480-1nab4d1/bindex

@@ -1,0 +1,19 @@
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/byebug-11.0.0/ext/byebug
+/Users/a1/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190311-34480-1tqg33b.rb extconf.rb
+creating Makefile
+
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/a1/projects/micro-reddit/vendor/bundle/gems/byebug-11.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20190311-34480-ux98rf/byebug
